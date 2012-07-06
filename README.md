@@ -14,6 +14,10 @@ I was creating a responsive layout and needed to keep a track of the page width 
 
 This is quite new, so I haven't really tested it around a bunch of browsers. It works fine on my development browsers, currently Firefox 13 and Chrome 21. It might work for you!
 
+## Thanks
+
+Thank you to Andy Langton and [this blog post](http://andylangton.co.uk/articles/javascript/get-viewport-size-javascript/) with some good cross browser methods of finding the viewport size.
+
 ## Changelog
 
 0.1 - Initial release
